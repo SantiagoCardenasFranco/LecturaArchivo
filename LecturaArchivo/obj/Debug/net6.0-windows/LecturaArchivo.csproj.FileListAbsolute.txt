@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.Form2.resources
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\bin\Debug\net6.0-windows\LecturaArchivo.exe
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\bin\Debug\net6.0-windows\LecturaArchivo.deps.json
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\bin\Debug\net6.0-windows\LecturaArchivo.runtimeconfig.json
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\bin\Debug\net6.0-windows\LecturaArchivo.dll
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\bin\Debug\net6.0-windows\LecturaArchivo.pdb
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.dll
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\refint\LecturaArchivo.dll
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.pdb
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\LecturaArchivo.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Compiladores\Varios\LecturaArchivo\obj\Debug\net6.0-windows\ref\LecturaArchivo.dll
